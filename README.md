@@ -11,8 +11,8 @@
 
 - 실습(https://github.com/eomjinyoung/bitcamp-study)
 - 강의자료
-  - 수업문서(https://github.com/eomcs/eomcs-docs)
-  - 수업자료(https://github.com/eomcs/eomcs-java)
+  - 수업 문서(https://github.com/eomcs/eomcs-docs)
+  - 프로그래밍 자료(https://github.com/eomcs/eomcs-java)
 
 ## 1일차(2024-05-24,금)
 
@@ -23,3 +23,11 @@
 
 - GIT 소개
   - 기본 명령 사용법(clone, add, commit, push, pull)
+  - 개인 저장소 준비 및 가져오기
+    - `$ git clone https://github.com/사용자이름/bitcamp-mystudy`
+  - 실습 저장소 가져오기
+    - `$ git clone https://github.com/eomjinyoung/bitcamp-study`
+  - 수업문서 가져오기
+    - `$ git clone https://github.com/eomcs/eomcs-docs`
+  - 프로그래밍 자료 가져오기
+    - `$ git clone https://github.com/eomcs/eomcs-java`
