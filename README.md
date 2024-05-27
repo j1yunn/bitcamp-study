@@ -31,3 +31,11 @@
     - `$ git clone https://github.com/eomcs/eomcs-docs`
   - 프로그래밍 자료 가져오기
     - `$ git clone https://github.com/eomcs/eomcs-java`
+- 개발 도구 준비
+  - 기본 편집기: VSCode
+  - Windows gcc 컴파일러 설치
+  - VirtualBox 설치
+  - Vagrant 설치
+- 애플리케이션 개발 및 실행 과정 실습
+  - hello.c 작성 및 컴파일, 실행
+- CPU, 기계어, OS의 관계 이해
