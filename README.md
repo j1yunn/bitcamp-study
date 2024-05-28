@@ -51,5 +51,15 @@
 
 ## 3일차(2024-05-28,화)
 
-- 컴파일 방식과 인터프리터 방식
-  -
+- 컴파일 방식과 인터프리터 방식, 하이브리드 방식
+  - Nodejs 설치 및 실행
+    - hello.js
+  - JDK 설치 및 실행
+    - Hello.java
+- Java 컴파일 및 실행 원리
+  - 자바컴파일러와 바이트코드
+  - JVM
+- 자바 제품 소개
+  - Java SE(JRE, Server JRE, JDK)
+  - Java EE(Servlet/JSP/EL/JSTL, EJB/WebService/REST API 등)
+  - Java ME
