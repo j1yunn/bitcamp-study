@@ -63,3 +63,17 @@
   - Java SE(JRE, Server JRE, JDK)
   - Java EE(Servlet/JSP/EL/JSTL, EJB/WebService/REST API 등)
   - Java ME
+
+## 4일차(2024-05-29,수)
+
+- 개발 도구 설정
+  - 폰트 설치
+    - 
+  - VSCode 설정
+    - Font: D2Coding
+    - Java Formatting: GoogleStyle
+    - Format On Save: 활성화
+    - Code Lens: 비활성화
+    - Inlay Hints: 비활성화
+- 
+
