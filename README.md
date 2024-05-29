@@ -68,12 +68,14 @@
 
 - 개발 도구 설정
   - 폰트 설치
-    - 
+    - D2Coding 폰트
   - VSCode 설정
-    - Font: D2Coding
+    - Font Size: 18
+    - Font Family: D2Coding
     - Java Formatting: GoogleStyle
     - Format On Save: 활성화
     - Code Lens: 비활성화
     - Inlay Hints: 비활성화
-- 
+- Java 컴파일과 실행
+  - 
 
